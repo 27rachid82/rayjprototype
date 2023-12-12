@@ -1,0 +1,38 @@
+.cadre {
+    border: 2px solid black;
+    background-color: azure;
+}
+
+.buttoncandidate {
+    margin-top: 1rem;
+    background-color:blue;
+}
+
+.buttoncandidate:hover {
+    background-color: grey;
+}
+
+.textbutton {
+    color: aliceblue;
+}
+
+.trait {
+    border: 1px solid black;
+    margin:2rem;
+}
+
+.competences-container {
+    display: flex;
+
+    flex-wrap: wrap;
+
+  }
+  
+  .competences-column {
+    flex: 1;
+    list-style-type: none; 
+    margin-right: 5rem;
+
+  }
+  
+ 
